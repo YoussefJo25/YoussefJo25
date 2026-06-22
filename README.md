@@ -1,46 +1,40 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+<h1 align="center">Hi there 👋, I'm Youssef Abdellatif</h1>
+[cite_start]<h3 align="center">First-Year Artificial Intelligence Student [cite: 3, 5] & Backend Developer</h3>
 
-### Languages
+<p align="center">
+  [cite_start]A motivated AI student at Minya National University[cite: 5], focusing on software development, competitive programming, and cloud engineering. [cite_start]Passionate about building efficient systems and exploring AGI frameworks[cite: 6, 29].
+</p>
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+<p align="center">
+  <a href="https://www.linkedin.com/in/youssef-jo-294812336"><img src="https://img.shields.io/badge/-LinkedIn-000?logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/qr/HJWHHCY2TYUQC1"><img src="https://img.shields.io/badge/-WhatsApp-000?logo=whatsapp&logoColor=white" /></a>
+  <a href="https://t.me/YOUSSEFJO2025"><img src="https://img.shields.io/badge/-Telegram-000?logo=telegram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/share/1EKqjhGXdd/"><img src="https://img.shields.io/badge/-Facebook-000?logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/youssef_jo_alahlawy"><img src="https://img.shields.io/badge/-Instagram-000?logo=instagram&logoColor=white" /></a>
+</p>
 
-### Technologies
+---
 
+### 💻 Languages & Tools
+
+[cite_start]![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C) [cite: 13]
+[cite_start]![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp&logoColor=239120) [cite: 13]
+[cite_start]![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) [cite: 14]
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)
 
-### Full Stack Projects
+### 🚀 Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
+[cite_start][![](https://img.shields.io/badge/-📚%20University%20Library%20Management%20System-000)](https://github.com/YOUR_GITHUB_USERNAME/ULMS) [cite: 18]
+[cite_start][![](https://img.shields.io/badge/-➗%20Linear%20Equations%20Solver-000)](https://github.com/YOUR_GITHUB_USERNAME/Linear-Solver) [cite: 23]
+[![](https://img.shields.io/badge/-🏥%20Clinic%20Reservation%20System-000)](https://github.com/YOUR_GITHUB_USERNAME/Clinic-Reservation)
+[cite_start][![](https://img.shields.io/badge/-🧠%20AGI%20Research-000)](https://github.com/YOUR_GITHUB_USERNAME/AGI-Research) [cite: 28]
 
-### Cybersecurity Projects
+### 📈 GitHub Stats
 
-[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
-[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
-[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
-[![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
-[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
-
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=fffaf0&title_color=333333&text_color=555555&icon_color=ffb6c1" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&hide_title=true&hide_border=true&layout=compact&bg_color=fffaf0&text_color=555555" />
+  </a>
+</p>
